@@ -45,5 +45,5 @@ git clone https://github.com/yourusername/resume-analyzer.git
 cd resume-analyzer
 
 ## 🖼️ Project UI Preview
-![Resume Analyzer UI](./images/ui-screenshot.png)
+![Resume Analyzer UI](./images/ui.jpg.png)
 
