@@ -46,4 +46,5 @@ cd resume-analyzer
 
 ## 🖼️ Project UI Preview
 ![Resume Analyzer UI](./images/ui.png)
+<img width="1366" height="768" alt="ui" src="https://github.com/user-attachments/assets/ff4c44a9-f1a3-4394-acb3-7242a5879ad2" />
 
