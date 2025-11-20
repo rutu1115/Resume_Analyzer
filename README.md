@@ -43,3 +43,7 @@ An AI-based web application that analyzes resumes, extracts key information, and
 ```bash
 git clone https://github.com/yourusername/resume-analyzer.git
 cd resume-analyzer
+
+## 🖼️ Project UI Preview
+![Resume Analyzer UI](./images/ui-screenshot.png)
+
