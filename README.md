@@ -1,4 +1,4 @@
-# 📄 Resume Analyzer – AI-Powered Resume Review  
+# 📄 SkillMatch AI – AI-Powered Resume Review  
 
 An AI-based web application that analyzes resumes, extracts key information, and provides actionable feedback using **Natural Language Processing (NLP)**.  
 
